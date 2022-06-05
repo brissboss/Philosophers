@@ -1,5 +1,5 @@
 # Philosophers
-The Dinin Philosophers problem in C.
+The Dining Philosophers problem in C.
 
 ## How to use
 ![Compile with macos](https://badgen.net/badge/build/macOS/grey?icon=apple)
